@@ -1,0 +1,5 @@
+#woocommerce-coupon-data ul.wc-tabs li.wsspg-subscription-product-data-tab-label a::before,
+#woocommerce-product-data ul.wc-tabs li.wsspg-subscription-product-data-tab-label a::before,
+.woocommerce ul.wc-tabs li.wsspg-subscription-product-data-tab-label a::before {
+	content: "\f01e";
+}

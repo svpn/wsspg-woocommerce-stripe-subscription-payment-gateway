@@ -1,0 +1,6 @@
+.woocommerce-account input[id="payment_method_wsspg"] {
+	margin:20px;
+}
+.woocommerce-account #payment .payment_methods li img {
+   margin:14px;
+}
